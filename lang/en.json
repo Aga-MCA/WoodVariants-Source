@@ -1,0 +1,17 @@
+{
+  "addon.Variantes-de-madera.versions.1-0-0.description": "Adds variations of blocks and items for each type of wood. To craft them, a special table (carving table) is needed. Below are the crafting recipes for the objects.",
+  "addon.Variantes-de-madera.versions.1-0-0.images.0.description": "Crafting of the carving table",
+  "addon.Variantes-de-madera.versions.1-0-0.images.1.description": "Crafting of wooden sticks",
+  "addon.Variantes-de-madera.versions.1-0-0.images.2.description": "Crafting of the armor stand",
+  "addon.Variantes-de-madera.versions.1-0-0.images.3.description": "Crafting of the crafting table",
+  "addon.Variantes-de-madera.versions.1-0-0.images.4.description": "Crafting of the chests",
+  "addon.Variantes-de-madera.versions.1-0-0.images.5.description": "Crafting of the bookshelves",
+
+  "addon.Variantes-de-madera.versions.2-0-0.description": "Adds variations of blocks and items for each type of wood, which are used for crafting.",
+  "addon.Variantes-de-madera.versions.2-0-0.changes.0": "The prefix was changed",
+  "addon.Variantes-de-madera.versions.2-0-0.changes.1": "Tools from other materials were added",
+  "addon.Variantes-de-madera.versions.2-0-0.changes.2": "Composters were added",
+  "addon.Variantes-de-madera.versions.2-0-0.changes.3": "The latest woods were added",
+  "addon.Variantes-de-madera.versions.2-0-0.changes.4": "Bows were added",
+  "addon.Variantes-de-madera.versions.2-0-0.changes.5": "Armor stands were removed"
+}

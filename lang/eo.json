@@ -1,0 +1,17 @@
+{
+  "addon.Variantes-de-madera.versions.1-0-0.description": "Aldonas variaĵojn de blokoj kaj objektoj por ĉiu tipo de ligno. Por krei ilin, necesas specialan tablon (skulptotablo). Sube estas la kraftado de la objektoj.",
+  "addon.Variantes-de-madera.versions.1-0-0.images.0.description": "Kraftado de la skulptotablo",
+  "addon.Variantes-de-madera.versions.1-0-0.images.1.description": "Kraftado de lignaj bastonoj",
+  "addon.Variantes-de-madera.versions.1-0-0.images.2.description": "Kraftado de la armaĵo-stelo",
+  "addon.Variantes-de-madera.versions.1-0-0.images.3.description": "Kraftado de la kraftotablo",
+  "addon.Variantes-de-madera.versions.1-0-0.images.4.description": "Kraftado de la kestoj",
+  "addon.Variantes-de-madera.versions.1-0-0.images.5.description": "Kraftado de la librejoj",
+
+  "addon.Variantes-de-madera.versions.2-0-0.description": "Aldonas variaĵojn de blokoj kaj objektoj por ĉiu tipo de ligno, kiuj estas uzataj por kraftado.",
+  "addon.Variantes-de-madera.versions.2-0-0.changes.0": "Ŝanĝiĝis la prefikso",
+  "addon.Variantes-de-madera.versions.2-0-0.changes.1": "Estis aldonitaj iloj el aliaj materialoj",
+  "addon.Variantes-de-madera.versions.2-0-0.changes.2": "Estis aldonitaj kompostiloj",
+  "addon.Variantes-de-madera.versions.2-0-0.changes.3": "Estis aldonitaj la plej novaj lignoj",
+  "addon.Variantes-de-madera.versions.2-0-0.changes.4": "Estis aldonitaj arkoj",
+  "addon.Variantes-de-madera.versions.2-0-0.changes.5": "Estis forigitaj la armaĵo-steloj"
+}
