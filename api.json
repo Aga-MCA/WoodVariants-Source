@@ -53,6 +53,17 @@
       "images": [],
       "tags": ["mesa", "cofre", "bloque", "herramientas"],
       "url": "https://github.com/Aga-MCA/WoodVariants-Addon/releases/download/v2.0.0/WoodVariants-Addon-2.0.0.mcaddon"
+    },
+    {
+      "version": "2.1.0",
+      "date": "2024-01-24T12:34:00",
+      "changes": [
+        "addon.Variantes-de-madera.versions.2-1-0.changes.0"
+      ],
+      "description": "addon.Variantes-de-madera.versions.2-1-0.description",
+      "images": [],
+      "tags": ["mesa", "cofre", "bloque", "herramientas", "botes"],
+      "url": "https://github.com/Aga-MCA/WoodVariants-Addon/releases/download/v2.1.0/WoodVariants-Addon-2.1.0.mcaddon"
     }
   ]
 }
