@@ -13,5 +13,8 @@
   "addon.Variantes-de-madera.versions.2-0-0.changes.2": "Composters were added",
   "addon.Variantes-de-madera.versions.2-0-0.changes.3": "The latest woods were added",
   "addon.Variantes-de-madera.versions.2-0-0.changes.4": "Bows were added",
-  "addon.Variantes-de-madera.versions.2-0-0.changes.5": "Armor stands were removed"
+  "addon.Variantes-de-madera.versions.2-0-0.changes.5": "Armor stands were removed",
+
+  "addon.Variantes-de-madera.versions.2-1-0.description": "Adds variations of blocks and items for each type of wood, which are used for crafting.",
+  "addon.Variantes-de-madera.versions.2-1-0.changes.0": "Chest Boat was added"
 }
