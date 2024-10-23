@@ -16,5 +16,10 @@
   "addon.Variantes-de-madera.versions.2-0-0.changes.5": "Armor stands were removed",
 
   "addon.Variantes-de-madera.versions.2-1-0.description": "Adds variations of blocks and items for each type of wood, which are used for crafting.",
-  "addon.Variantes-de-madera.versions.2-1-0.changes.0": "Chest Boat was added"
+  "addon.Variantes-de-madera.versions.2-1-0.changes.0": "Chest Boat was added",
+  
+  "addon.Variantes-de-madera.versions.3-0-0.changes.0": "Animated chests",
+  "addon.Variantes-de-madera.versions.3-0-0.changes.1": "Blocks and tools serve as fuel",
+  "addon.Variantes-de-madera.versions.3-0-0.changes.2": "Recipes for planks with panel slabs",
+  "addon.Variantes-de-madera.versions.3-0-0.changes.3": "Improvements to panel slabs"
 }
